@@ -1,0 +1,17 @@
+#hero {
+    width: 100%;
+    height: 500px;
+    
+    background-image: url(images/miniwallp.jpg);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#hero h1 {
+    vertical-align: middle;
+}
+
+.col-12 h2{
+    text-align: center;
+}
